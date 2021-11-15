@@ -1,5 +1,5 @@
 # created by virtualenv automatically
-.\Include
-.\Lib
-.\Scripts
-.\pyvenv.cfg
+recipe_app\Include
+recipe_app\Lib
+recipe_app\Scripts
+recipe_app\pyvenv.cfg
